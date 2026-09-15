@@ -1,0 +1,6 @@
+﻿.idea
+
+#dot net
+*/bin
+*/obj
+*.user
